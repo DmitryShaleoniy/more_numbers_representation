@@ -1,0 +1,30 @@
+﻿cl : командная строка  warning D9025: переопределение "/sdl" на "/GS-"
+  Application.cpp
+  Array.cpp
+  BitString.cpp
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Array.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Array.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Array.cpp(35,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Array.cpp(42,12): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Array.cpp(49,12): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Array.cpp(89,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\BitString.cpp(25,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\BitString.cpp(255,19): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\BitString.cpp(265,20): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  DZ1.2.cpp
+  IncompatibleDimException.cpp
+  Octal.cpp
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Octal.cpp(22,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Octal.cpp(116,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Octal.cpp(115,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Octal.cpp(123,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Octal.cpp(122,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Octal.cpp(133,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Octal.cpp(132,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Octal.cpp(157,19): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Octal.cpp(167,20): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  OutOfRangeException.cpp
+  ZeroDivideException.cpp
+  Создание кода...
+C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\DZ1.2\Array.cpp(92,1): warning C4715: Array::sum: значение возвращается не при всех путях выполнения
+  DZ1.2.vcxproj -> C:\Users\jjjjj\OneDrive\Рабочий стол\Файлы\информатика\дз1 плюсы вместе с 3 частью\x64\Debug\DZ1.2.exe
